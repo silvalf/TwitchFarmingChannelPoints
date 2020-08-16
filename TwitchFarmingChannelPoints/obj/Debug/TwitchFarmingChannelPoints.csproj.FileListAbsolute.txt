@@ -1,0 +1,10 @@
+E:\Repositorio\GitHub\TwitchFarmingChannelPoints\TwitchFarmingChannelPoints\bin\Debug\TwitchFarmingChannelPoints.exe.config
+E:\Repositorio\GitHub\TwitchFarmingChannelPoints\TwitchFarmingChannelPoints\bin\Debug\TwitchFarmingChannelPoints.exe
+E:\Repositorio\GitHub\TwitchFarmingChannelPoints\TwitchFarmingChannelPoints\bin\Debug\TwitchFarmingChannelPoints.pdb
+E:\Repositorio\GitHub\TwitchFarmingChannelPoints\TwitchFarmingChannelPoints\bin\Debug\WebDriver.dll
+E:\Repositorio\GitHub\TwitchFarmingChannelPoints\TwitchFarmingChannelPoints\bin\Debug\WebDriver.xml
+E:\Repositorio\GitHub\TwitchFarmingChannelPoints\TwitchFarmingChannelPoints\obj\Debug\TwitchFarmingChannelPoints.csprojAssemblyReference.cache
+E:\Repositorio\GitHub\TwitchFarmingChannelPoints\TwitchFarmingChannelPoints\obj\Debug\TwitchFarmingChannelPoints.csproj.CoreCompileInputs.cache
+E:\Repositorio\GitHub\TwitchFarmingChannelPoints\TwitchFarmingChannelPoints\obj\Debug\TwitchFarmingChannelPoints.csproj.CopyComplete
+E:\Repositorio\GitHub\TwitchFarmingChannelPoints\TwitchFarmingChannelPoints\obj\Debug\TwitchFarmingChannelPoints.exe
+E:\Repositorio\GitHub\TwitchFarmingChannelPoints\TwitchFarmingChannelPoints\obj\Debug\TwitchFarmingChannelPoints.pdb
